@@ -1,4 +1,6 @@
-/[Ss]creenshots/*
+# All meta files outside the assets directory
+/**/*.meta
+!/VirtualButtonsForUnity/**/*.meta
 
 ### Unity
 
